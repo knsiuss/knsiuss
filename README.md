@@ -59,7 +59,7 @@ Automated data collection pipeline for building ML training datasets.
 
 ## Technical Stack
 
-**Languages:** Python, C++, Dart, JavaScript
+**Languages:** Python, C++, Sql
 
 **AI/ML:** TensorFlow, PyTorch, Scikit-Learn, Keras, OpenCV
 
@@ -67,7 +67,7 @@ Automated data collection pipeline for building ML training datasets.
 
 **Tools:** Git, Docker, VS Code, Jupyter, Linux, Streamlit, FastAPI
 
-**AI Services:** Google Gemini API, LangChain, Prompt Engineering
+**AI Services:** LangChain, Prompt Engineering, MCP
 
 ---
 
