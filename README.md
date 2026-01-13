@@ -10,16 +10,7 @@ Self-taught developer building towards expertise in AI Engineering with focus on
 ---
 
 ## About Me
-
-AI Engineer focused on building production-ready machine learning systems. Currently deepening expertise in PyTorch, JAX/Flax, and distributed training while working on real-world applications in sports analytics and data engineering.
-
-**Current Focus:**
-- Advanced Python & computational efficiency
-- Neural networks and transformer architectures
-- High-performance computing with JAX/Flax
-- Production ML systems and deployment
-
-**Technical Goal:** Build expertise in large-scale AI systems, from distributed training to production deployment, with applications in robotics and IoT.
+focused on building production-ready machine learning systems. Currently deepening expertise in PyTorch, JAX/Flax, and distributed training while working on real-world applications in sports analytics and data engineering.
 
 ---
 
@@ -65,45 +56,9 @@ Automated data collection pipeline for building ML training datasets.
 
 **Data Science:** NumPy, Pandas, Matplotlib, Plotly, Seaborn
 
-**Tools:** Git, Docker, VS Code, Jupyter, Linux, Streamlit, FastAPI
+**Tools:** Git, Docker, VS Code, Jupyter, Linux, Streamlit, FastAPI 
 
 **AI Services:** LangChain, Prompt Engineering, MCP
-
----
-
-## Learning Roadmap
-
-Currently executing a structured 3-year learning plan:
-
-**Phase 1 (Current):** Python Advanced + Data Structures
-- OOP mastery and design patterns
-- Advanced data structures (trees, graphs)
-- Algorithm optimization
-
-**Phase 2:** NumPy & Vectorization
-- Broadcasting and memory optimization
-- Matrix operations at scale
-- Vectorized implementations
-
-**Phase 3:** Mathematics for AI
-- Linear algebra fundamentals
-- Calculus and gradient computation
-- Statistical foundations
-
-**Phase 4-5:** Machine Learning & PyTorch
-- Classical ML algorithms
-- Neural network architectures
-- Production training pipelines
-
-**Phase 6-8:** Deep Learning & Advanced Systems
-- Transformer architectures from scratch
-- JAX/Flax for high-performance computing
-- Distributed training and optimization
-
-**Phase 9-11:** Production Systems & Portfolio
-- Model serving and deployment
-- MLOps and CI/CD
-- System design for ML
 
 ---
 
@@ -119,8 +74,7 @@ Open to collaborating on AI/ML projects, discussing machine learning systems, or
 
 <div align="center">
 
-**"Building the future of AI for Robotics & IoT"**
 
-⭐ From [maxvyquincy9393](https://github.com/maxvyquincy9393)
+[maxvyquincy9393](https://github.com/maxvyquincy9393)
 
 </div>
