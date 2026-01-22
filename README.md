@@ -1,80 +1,92 @@
 # P. Kanisius Bagaskara
 
-**AI Engineer | Jakarta, Indonesia**
+**Informatics Engineering Student | Google Student Ambassador**  
+📍 Tangerang, Indonesia
 
-Self-taught developer building towards expertise in AI Engineering with focus on Deep Learning, Robotics, and IoT integration.
+Hi! I'm Kanisius, an informatics engineering student at Universitas Pamulang passionate about AI and machine learning. Currently exploring deep learning, data science, and building practical ML applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
----
-
-## About Me
-focused on building production-ready machine learning systems. Currently deepening expertise in PyTorch, JAX/Flax, and distributed training while working on real-world applications in sports analytics and data engineering.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanisiusbagas1212)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maxvy1218@gmail.com)
 
 ---
 
-## Featured Projects
+## 🎯 What I'm Learning
+
+- Deep Learning with PyTorch & TensorFlow
+- Data analysis and visualization
+- Machine learning fundamentals
+- Building ML-powered applications
+
+---
+
+## 🚀 Projects
 
 ### [F1 2025 Analytics Dashboard](https://github.com/maxvyquincy9393/hub)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![ML](https://img.shields.io/badge/ML-Scikit--learn-F7931E?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-Production-grade analytics platform for Formula 1 telemetry analysis and race predictions.
+Interactive dashboard for analyzing Formula 1 race data and telemetry.
 
-- Real-time telemetry visualization and lap-time analysis
-- ML-powered race predictions using Random Forest
-- Interactive driver/team performance comparisons
-- Sector-level performance analysis
+- Telemetry visualization and lap-time analysis
+- Race predictions using machine learning
+- Driver and team performance comparisons
 
-**Stack:** Python, Streamlit, Pandas, Plotly, FastF1, Scikit-Learn
+**Tech:** Python, Streamlit, Pandas, Plotly, FastF1, Scikit-Learn
 
 ### [Machine Learning Practice](https://github.com/maxvyquincy9393/ipynb_Machine_learning_practice)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-Hands-on implementations of ML fundamentals with focus on mathematical foundations.
+Learning ML fundamentals through hands-on implementations.
 
-- Linear algebra operations from scratch
-- Custom regression implementations
-- Statistical analysis and EDA workflows
-- Model evaluation frameworks
+- Linear algebra and statistics from scratch
+- Regression models and evaluations
+- Exploratory data analysis
 
-**Stack:** Python, NumPy, Pandas, Matplotlib, Scikit-Learn
+**Tech:** Python, NumPy, Pandas, Matplotlib, Scikit-Learn
 
 ### [AI Data Scraping](https://github.com/maxvyquincy9393/AI_Data_Scraping)
 
-Automated data collection pipeline for building ML training datasets.
+Automated web scraping for ML dataset collection.
 
-**Stack:** Python, BeautifulSoup, Requests, Pandas
-
----
-
-## Technical Stack
-
-**Languages:** Python, C++, Sql
-
-**AI/ML:** TensorFlow, PyTorch, Scikit-Learn, Keras, OpenCV
-
-**Data Science:** NumPy, Pandas, Matplotlib, Plotly, Seaborn
-
-**Tools:** Git, Docker, VS Code, Jupyter, Linux, Streamlit, FastAPI 
-
-**AI Services:** LangChain, Prompt Engineering, MCP
+**Tech:** Python, BeautifulSoup, Requests, Pandas
 
 ---
 
-## Connect
+## 🛠️ Tech Stack
 
-Open to collaborating on AI/ML projects, discussing machine learning systems, or exploring opportunities in AI engineering.
+**Languages:** Python, C++, SQL  
+**ML/AI:** TensorFlow, PyTorch, Scikit-Learn, OpenCV  
+**Data:** NumPy, Pandas, Matplotlib, Plotly  
+**Tools:** Git, Jupyter, VS Code, Streamlit
 
-📧 **Email:** maxvy1218@gmail.com  
-💼 **LinkedIn:** [www.linkedin.com/in/kanisiusbagas1212
-🌐 **Location:** Tangerang, Indonesia
+---
+
+## 📚 Certifications
+
+- Advanced Learning Algorithms - Stanford University (DeepLearning.AI)
+- Gemini for Education - Google
+
+---
+
+## 🌱 Currently
+
+- Google Student Ambassador (Rising Star - Top 200/800+ in Indonesia)
+- Learning advanced ML algorithms and deep learning
+- Building more real-world ML projects
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: [linkedin.com/in/kanisiusbagas1212](https://linkedin.com/in/kanisiusbagas1212)
+- 📧 Email: maxvy1218@gmail.com
+- 🎓 Student at Universitas Pamulang
+
+Open to connecting with fellow students, tech enthusiasts, and anyone interested in AI/ML!
 
 ---
 
 <div align="center">
-
-
-[maxvyquincy9393](https://github.com/maxvyquincy9393)
+  
+**Thanks for visiting!** ⭐ Feel free to explore my repositories
 
 </div>
