@@ -1,7 +1,7 @@
-# Hi there, I'm Kanisius! 👋
+# Hi there, I'm Kanisius! 
 
 **Informatics Engineering Student | Google Student Ambassador**  
-📍 Tangerang, Indonesia
+ Tangerang, Indonesia
 
 I'm passionate about AI and machine learning, currently learning deep learning, data science, and building practical ML applications as a Google Student Ambassador.
 
@@ -11,7 +11,7 @@ I'm passionate about AI and machine learning, currently learning deep learning, 
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
   
@@ -25,16 +25,16 @@ I'm passionate about AI and machine learning, currently learning deep learning, 
 
 ---
 
-## 🎯 What I'm Learning
+##  What I'm Learning
 
-- 🧠 Deep Learning with PyTorch & TensorFlow
-- 📊 Data Analysis and Visualization
-- 🤖 Machine Learning Fundamentals
-- 🚀 Building ML-powered Applications
+-  Deep Learning with PyTorch & TensorFlow
+-  Data Analysis and Visualization
+-  Machine Learning Fundamentals
+-  Building ML-powered Applications
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### [F1 2025 Analytics Dashboard](https://github.com/maxvyquincy9393/f1lab)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
@@ -44,10 +44,10 @@ I'm passionate about AI and machine learning, currently learning deep learning, 
 Interactive analytics platform for Formula 1 race data and telemetry analysis.
 
 **Features:**
-- 📈 Real-time telemetry visualization and lap-time analysis
-- 🎯 ML-based race predictions using Random Forest
-- 🏎️ Driver and team performance comparisons
-- 📊 Sector-level performance breakdown
+-  Real-time telemetry visualization and lap-time analysis
+-  ML-based race predictions using Random Forest
+-  Driver and team performance comparisons
+-  Sector-level performance breakdown
 
 **Tech Stack:** Python, Streamlit, Pandas, Plotly, FastF1, Scikit-Learn
 
@@ -60,10 +60,10 @@ Interactive analytics platform for Formula 1 race data and telemetry analysis.
 Hands-on ML implementations and explorations.
 
 **What's Inside:**
-- 🔢 Linear algebra and statistics from scratch
-- 📉 Custom regression model implementations
-- 📊 Exploratory data analysis workflows
-- ✅ Model evaluation and metrics
+-  Linear algebra and statistics from scratch
+-  Custom regression model implementations
+-  Exploratory data analysis workflows
+-  Model evaluation and metrics
 
 **Tech Stack:** Python, NumPy, Pandas, Matplotlib, Scikit-Learn
 
@@ -78,7 +78,7 @@ Automated web scraping pipeline for ML dataset collection.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -107,29 +107,29 @@ Automated web scraping pipeline for ML dataset collection.
 
 ---
 
-## 📚 Certifications
+##  Certifications
 
-🎓 **Advanced Learning Algorithms** - Stanford University (DeepLearning.AI)  
-🎓 **Gemini for Education** - Google for Education
-
----
-
-## 🌱 Currently
-
-- 🎯 Google Student Ambassador (Rising Star - Top 200/800+ in Indonesia)
-- 📖 Learning advanced ML algorithms and deep learning architectures
-- 💻 Building more hands-on ML projects
-- 🤝 Contributing to tech education in Indonesia
+ **Advanced Learning Algorithms** - Stanford University (DeepLearning.AI)  
+ **Gemini for Education** - Google for Education
 
 ---
 
-## 📈 Activity Graph
+##  Currently
+
+-  Google Student Ambassador (Rising Star - Top 200/800+ in Indonesia)
+-  Learning advanced ML algorithms and deep learning architectures
+-  Building more hands-on ML projects
+-  Contributing to tech education in Indonesia
+
+---
+
+##  Activity Graph
 
 [![Kanisius's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maxvyquincy9393&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
@@ -139,26 +139,26 @@ Automated web scraping pipeline for ML dataset collection.
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 I'm always open to connecting with fellow students, tech enthusiasts, and anyone interested in AI/ML!
 
-- 💼 **LinkedIn:** [linkedin.com/in/kanisiusbagas1212](https://linkedin.com/in/kanisiusbagas1212)
-- 📧 **Email:** maxvy1218@gmail.com
-- 🎓 **University:** Universitas Pamulang
-- 🌐 **Location:** Tangerang, Indonesia
+-  **LinkedIn:** [linkedin.com/in/kanisiusbagas1212](https://linkedin.com/in/kanisiusbagas1212)
+-  **Email:** maxvy1218@gmail.com
+-  **University:** Universitas Pamulang
+-  **Location:** Tangerang, Indonesia
 
 ---
 
 <div align="center">
   
-### 💭 Random Dev Quote
+###  Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-**Thanks for visiting my profile!** ⭐  
+**Thanks for visiting my profile!**  
 *Feel free to explore my repositories and don't forget to star if you find something interesting!*
 
 ![](https://komarev.com/ghpvc/?username=maxvyquincy9393&color=blueviolet&style=for-the-badge)
