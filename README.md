@@ -56,12 +56,16 @@ Automated web scraping pipeline for ML dataset collection and preprocessing.
 
 ---
 
-### IEEE Research Project
-Currently working on an IEEE research project.
+### [IEEE-CIS Fraud Detection](https://github.com/maxvyquincy9393/IEEE_fraud_detection)
+Machine learning project for fraud detection in financial transactions using IEEE-CIS dataset.
 
-**Details:** Coming soon
+**Key Features:**
+- Exploratory data analysis on transaction and identity features
+- Feature engineering and missing value analysis
+- Fraud pattern identification and correlation analysis
+- Model development for binary classification
 
-**Stack:** TBD
+**Stack:** Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-Learn • Jupyter
 
 ---
 
