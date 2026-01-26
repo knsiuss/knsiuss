@@ -1,9 +1,9 @@
-# Hi there, I'm Kanisius! 
+# Hi there, I'm Kanisius Bagaskara
 
-**Informatics Engineering Student | Google Student Ambassador**  
- Tangerang, Indonesia
+**Informatics Student | Google Student Ambassador**  
+Universitas Pamulang | Tangerang, Indonesia
 
-I'm passionate about AI and machine learning, currently learning deep learning, data science, and building practical ML applications as a Google Student Ambassador.
+Passionate about artificial intelligence and machine learning. Currently focused on deep learning and building practical ML applications to solve real-world problems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanisiusbagas1212)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maxvy1218@gmail.com)
@@ -11,93 +11,80 @@ I'm passionate about AI and machine learning, currently learning deep learning, 
 
 ---
 
-##  GitHub Statistics
+## About Me
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxvyquincy9393&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maxvyquincy9393&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxvyquincy9393&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</div>
+- Google Student Ambassador - Rising Star (Top 200/800+ in Indonesia)
+- Currently learning Deep Learning with PyTorch and TensorFlow
+- Interested in Computer Vision, NLP, and Data Science
+- Building ML-powered applications and data analysis tools
+- Certified in Advanced Learning Algorithms (Stanford/DeepLearning.AI)
 
 ---
 
-##  What I'm Learning
-
--  Deep Learning with PyTorch & TensorFlow
--  Data Analysis and Visualization
--  Machine Learning Fundamentals
--  Building ML-powered Applications
-
----
-
-##  Featured Projects
+## Featured Projects
 
 ### [F1 2025 Analytics Dashboard](https://github.com/maxvyquincy9393/f1lab)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+Interactive analytics platform for Formula 1 race data with ML-powered predictions.
 
-Interactive analytics platform for Formula 1 race data and telemetry analysis.
+**Key Features:**
+- Real-time telemetry visualization and lap analysis
+- Race outcome predictions using Random Forest algorithm
+- Driver performance comparisons and sector breakdowns
+- Interactive data exploration with Plotly visualizations
 
-**Features:**
--  Real-time telemetry visualization and lap-time analysis
--  ML-based race predictions using Random Forest
--  Driver and team performance comparisons
--  Sector-level performance breakdown
-
-**Tech Stack:** Python, Streamlit, Pandas, Plotly, FastF1, Scikit-Learn
+**Stack:** Python • Streamlit • Pandas • Plotly • FastF1 • Scikit-Learn
 
 ---
 
 ### [Machine Learning Practice](https://github.com/maxvyquincy9393/ipynb_Machine_learning_practice)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+Collection of hands-on ML implementations and experiments.
 
-Hands-on ML implementations and explorations.
+**Includes:**
+- Linear algebra and statistics fundamentals
+- Custom regression model implementations from scratch
+- Exploratory data analysis workflows
+- Model evaluation techniques and metrics
 
-**What's Inside:**
--  Linear algebra and statistics from scratch
--  Custom regression model implementations
--  Exploratory data analysis workflows
--  Model evaluation and metrics
-
-**Tech Stack:** Python, NumPy, Pandas, Matplotlib, Scikit-Learn
+**Stack:** Python • NumPy • Pandas • Matplotlib • Scikit-Learn • Jupyter
 
 ---
 
 ### [AI Data Scraping](https://github.com/maxvyquincy9393/AI_Data_Scraping)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+Automated web scraping pipeline for ML dataset collection and preprocessing.
 
-Automated web scraping pipeline for ML dataset collection.
-
-**Tech Stack:** Python, BeautifulSoup, Requests, Pandas
+**Stack:** Python • BeautifulSoup • Requests • Pandas
 
 ---
 
-##  Tech Stack
+### IEEE Research Project
+Currently working on an IEEE research project.
 
-**Languages:**  
+**Details:** Coming soon
+
+**Stack:** TBD
+
+---
+
+## Technical Skills
+
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**AI/ML Frameworks:**  
+**AI/ML Frameworks**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-**Data Science:**  
+**Data Science**  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
-**Tools & Platforms:**  
+**Development Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -107,60 +94,48 @@ Automated web scraping pipeline for ML dataset collection.
 
 ---
 
-##  Certifications
+## Certifications
 
- **Advanced Learning Algorithms** - Stanford University (DeepLearning.AI)  
- **Gemini for Education** - Google for Education
+**Advanced Learning Algorithms**  
+Stanford University (DeepLearning.AI)
 
----
-
-##  Currently
-
--  Google Student Ambassador (Rising Star - Top 200/800+ in Indonesia)
--  Learning advanced ML algorithms and deep learning architectures
--  Building more hands-on ML projects
--  Contributing to tech education in Indonesia
+**Gemini for Education**  
+Google for Education
 
 ---
 
-##  Activity Graph
-
-[![Kanisius's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maxvyquincy9393&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-##  GitHub Trophies
+## GitHub Statistics
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=maxvyquincy9393&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxvyquincy9393&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maxvyquincy9393&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-##  Let's Connect!
+## Activity
 
-I'm always open to connecting with fellow students, tech enthusiasts, and anyone interested in AI/ML!
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maxvyquincy9393&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
--  **LinkedIn:** [linkedin.com/in/kanisiusbagas1212](https://linkedin.com/in/kanisiusbagas1212)
--  **Email:** maxvy1218@gmail.com
--  **University:** Universitas Pamulang
--  **Location:** Tangerang, Indonesia
+---
+
+## Connect With Me
+
+**LinkedIn:** [linkedin.com/in/kanisiusbagas1212](https://linkedin.com/in/kanisiusbagas1212)  
+**Email:** maxvy1218@gmail.com  
+**University:** Universitas Pamulang  
+**Location:** Tangerang, Indonesia
+
+Open to collaborations, discussions about AI/ML, and connecting with fellow tech enthusiasts.
 
 ---
 
 <div align="center">
-  
-###  Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-**Thanks for visiting my profile!**  
-*Feel free to explore my repositories and don't forget to star if you find something interesting!*
-
-![](https://komarev.com/ghpvc/?username=maxvyquincy9393&color=blueviolet&style=for-the-badge)
+**Thanks for visiting!**  
+Feel free to explore my repositories and reach out if you'd like to collaborate.
 
 </div>
