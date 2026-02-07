@@ -3,6 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanisiusbagas1212)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxvy1218@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=maxvyquincy9393&style=for-the-badge&color=blueviolet)
+![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/maxvyquincy9393/clone-stats/raw/clone.json&logo=github&style=for-the-badge)
+![GitHub Visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Visitors&query=count&url=https://gist.githubusercontent.com/maxvyquincy9393/visitor-stats/raw/visitor.json&logo=github&style=for-the-badge)
 
 ## About Me
 
@@ -59,6 +61,21 @@ Passionate about building intelligent systems and solving real-world problems wi
 ##  Repository Metrics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxvyquincy9393&theme=radical)
+
+---
+
+##  Repository Traffic
+
+<div align="center">
+
+### Clone & Visitor Statistics
+
+![GitHub Clones (14 days)](https://img.shields.io/github/clones/maxvyquincy9393/maxvyquincy9393?style=for-the-badge&label=Clones%20(14%20days)&color=blue)
+![GitHub Unique Clones (14 days)](https://img.shields.io/github/clones/maxvyquincy9393/maxvyquincy9393/unique?style=for-the-badge&label=Unique%20Clones&color=brightgreen)
+
+**Note:** Clone statistics show the number of times this repository has been cloned in the last 14 days. This data is provided by GitHub's traffic API.
+
+</div>
 
 ---
 
