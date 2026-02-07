@@ -1,75 +1,7 @@
-# Hi there, I'm Kanisius Bagaskara
-
-**Informatics Student | Google Student Ambassador**  
-Universitas Pamulang | Tangerang, Indonesia
-
-Passionate about artificial intelligence and machine learning. Currently focused on deep learning and building practical ML applications to solve real-world problems.
+# Hi there
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanisiusbagas1212)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maxvy1218@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=maxvyquincy9393&color=blueviolet&style=flat)
-
----
-
-## About Me
-
-- Google Student Ambassador - Rising Star (Top 200/800+ in Indonesia)
-- Currently learning Deep Learning with PyTorch and TensorFlow
-- Interested in Computer Vision, NLP, and Data Science
-- Building ML-powered applications and data analysis tools
-- Certified in Advanced Learning Algorithms (Stanford/DeepLearning.AI)
-
----
-
-## Featured Projects
-
-### [F1 2025 Analytics Dashboard][(https://github.com/maxvyquincy9393/f1lab])
-[Streamlit: (https://f1-lab.streamlit.app/)]
-
-Interactive analytics platform for Formula 1 race data with ML-powered predictions.
-
-**Key Features:**
-- Real-time telemetry visualization and lap analysis
-- Race outcome predictions using Random Forest algorithm
-- Driver performance comparisons and sector breakdowns
-- Interactive data exploration with Plotly visualizations
-
-**Stack:** Python • Streamlit • Pandas • Plotly • FastF1 • Scikit-Learn
-
----
-
-### [Machine Learning Practice](https://github.com/maxvyquincy9393/ipynb_Machine_learning_practice)
-Collection of hands-on ML implementations and experiments.
-
-**Includes:**
-- Linear algebra and statistics fundamentals
-- Custom regression model implementations from scratch
-- Exploratory data analysis workflows
-- Model evaluation techniques and metrics
-
-**Stack:** Python • NumPy • Pandas • Matplotlib • Scikit-Learn • Jupyter
-
----
-
-### [AI Data Scraping](https://github.com/maxvyquincy9393/AI_Data_Scraping)
-Automated web scraping pipeline for ML dataset collection and preprocessing.
-
-**Stack:** Python • BeautifulSoup • Requests • Pandas
-
----
-
-### [IEEE-CIS Fraud Detection](https://github.com/maxvyquincy9393/IEEE_fraud_detection)
-Machine learning project for fraud detection in financial transactions using IEEE-CIS dataset.
-
-**Key Features:**
-- Exploratory data analysis on transaction and identity features
-- Feature engineering and missing value analysis
-- Fraud pattern identification and correlation analysis
-- Model development for binary classification
-
-**Stack:** Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-Learn • Jupyter
-
----
 
 ## Technical Skills
 
@@ -140,6 +72,7 @@ Open to collaborations, discussions about AI/ML, and connecting with fellow tech
 ---
 
 <div align="center">
+
 
 **Thanks for visiting!**  
 Feel free to explore my repositories and reach out if you'd like to collaborate.
