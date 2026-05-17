@@ -1,0 +1,61 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">P. Kanisius Bagaskara GitHub profile banner</title>
+  <desc id="desc">A modern coding profile banner with layered colors, subtle grid lines, and terminal-inspired text.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.42" stop-color="#172554"/>
+      <stop offset="1" stop-color="#042F2E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="170" y1="380" x2="1430" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.45" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-40%" width="140%" height="180%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="28" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.212 0 0 0 0 0.827 0 0 0 0 0.827 0 0 0 0.45 0"/>
+      <feBlend in2="SourceGraphic" mode="screen"/>
+    </filter>
+    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse">
+      <path d="M 56 0 H 0 V 56" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <clipPath id="cardClip">
+      <rect x="108" y="76" width="1384" height="268" rx="22"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1600" height="420" fill="url(#bg)"/>
+  <rect width="1600" height="420" fill="url(#grid)"/>
+
+  <path d="M-70 360C154 282 268 404 504 326C740 248 790 64 1042 88C1294 112 1334 266 1680 160" stroke="url(#accent)" stroke-width="72" stroke-linecap="round" opacity="0.26" filter="url(#softGlow)"/>
+  <path d="M-32 88C154 150 286 112 438 86C622 54 739 79 900 150C1090 234 1294 285 1640 224" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2"/>
+  <path d="M-20 330C144 268 282 250 442 278C654 315 776 388 1012 314C1238 243 1348 96 1640 128" stroke="#34D399" stroke-opacity="0.22" stroke-width="3"/>
+
+  <g clip-path="url(#cardClip)">
+    <rect x="108" y="76" width="1384" height="268" rx="22" fill="#020617" fill-opacity="0.58" stroke="#E2E8F0" stroke-opacity="0.16"/>
+    <circle cx="146" cy="113" r="8" fill="#FB7185"/>
+    <circle cx="174" cy="113" r="8" fill="#FBBF24"/>
+    <circle cx="202" cy="113" r="8" fill="#34D399"/>
+    <rect x="108" y="139" width="1384" height="1" fill="#E2E8F0" fill-opacity="0.12"/>
+
+    <text x="146" y="192" fill="#93C5FD" font-family="Consolas, 'SFMono-Regular', monospace" font-size="26">$ whoami</text>
+    <text x="146" y="246" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="0">P. Kanisius Bagaskara</text>
+    <text x="148" y="296" fill="#BAE6FD" font-family="Consolas, 'SFMono-Regular', monospace" font-size="26">building useful things, one clean commit at a time</text>
+
+    <g transform="translate(1120 180)">
+      <rect x="0" y="0" width="244" height="88" rx="16" fill="#0F172A" fill-opacity="0.86" stroke="#38BDF8" stroke-opacity="0.28"/>
+      <text x="24" y="36" fill="#E0F2FE" font-family="Consolas, 'SFMono-Regular', monospace" font-size="20">status</text>
+      <text x="24" y="66" fill="#34D399" font-family="Consolas, 'SFMono-Regular', monospace" font-size="24" font-weight="700">learning + shipping</text>
+    </g>
+  </g>
+
+  <g opacity="0.55">
+    <circle cx="1282" cy="78" r="3" fill="#E0F2FE"/>
+    <circle cx="1386" cy="54" r="2" fill="#BAE6FD"/>
+    <circle cx="1430" cy="360" r="3" fill="#A7F3D0"/>
+    <circle cx="90" cy="64" r="2" fill="#DDD6FE"/>
+    <circle cx="248" cy="372" r="3" fill="#FDE68A"/>
+    <circle cx="468" cy="46" r="2" fill="#E0F2FE"/>
+  </g>
+</svg>

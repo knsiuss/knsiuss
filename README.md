@@ -1,93 +1,97 @@
-# Hi, I'm P
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanisiusbagas1212)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxvy1218@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=maxvyquincy9393&style=for-the-badge&color=blueviolet)
-![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/maxvyquincy9393/clone-stats/raw/clone.json&logo=github&style=for-the-badge)
-![GitHub Visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Visitors&query=count&url=https://gist.githubusercontent.com/maxvyquincy9393/visitor-stats/raw/visitor.json&logo=github&style=for-the-badge)
-
-## About Me
-
-AI/ML Enthusiast from Universitas Pamulang, Tangerang, Indonesia  
-Passionate about building intelligent systems and solving real-world problems with data
-
----
-
-##  Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**AI/ML & Data Science**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
----
-
-##  GitHub Statistics
-
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxvyquincy9393&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maxvyquincy9393&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxvyquincy9393&layout=compact&theme=radical&hide_border=true)
-
+  <img src="assets/banner.svg" alt="P. Kanisius Bagaskara profile banner" width="100%" />
 </div>
 
----
+<h1 align="center">Hi, I'm P. Kanisius Bagaskara</h1>
 
-##  Contribution Activity
+<p align="center">
+  <strong>AI/ML enthusiast from Tangerang, Indonesia</strong><br>
+  Building intelligent systems, clean tools, and data-driven experiments.
+</p>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maxvyquincy9393&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-##  Repository Metrics
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxvyquincy9393&theme=radical)
-
----
-
-##  Repository Traffic
-
-<div align="center">
-
-### Clone & Visitor Statistics
-
-![GitHub Clones (14 days)](https://img.shields.io/github/clones/maxvyquincy9393/maxvyquincy9393?style=for-the-badge&label=Clones%20(14%20days)&color=blue)
-![GitHub Unique Clones (14 days)](https://img.shields.io/github/clones/maxvyquincy9393/maxvyquincy9393/unique?style=for-the-badge&label=Unique%20Clones&color=brightgreen)
-
-**Note:** Clone statistics show the number of times this repository has been cloned in the last 14 days. This data is provided by GitHub's traffic API.
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/kanisiusbagas1212">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:maxvy1218@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Let%27s%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=knsiuss&style=for-the-badge&color=14B8A6">
+</p>
 
 ---
 
-##  Let's Connect!
+### About Me
 
-Open to collaborations, AI/ML discussions, and connecting with fellow tech enthusiasts.  
-Feel free to reach out through [LinkedIn](https://linkedin.com/in/kanisiusbagas1212) or [email](mailto:maxvy1218@gmail.com).
+I'm an AI/ML learner and builder from Universitas Pamulang who enjoys turning ideas into practical projects. I like clean interfaces, useful automation, and models that solve real problems instead of just looking fancy in a notebook.
+
+- Focus: machine learning, computer vision, data science, and practical app development
+- Current mode: learning deeply, shipping consistently, and refining every project
+- Open to: collaborations, AI/ML discussions, and project feedback
+
+### Tech Stack
+
+**Languages**
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827">
+</p>
+
+**AI/ML & Data**
+
+<p>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+  <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+</p>
+
+**Tools**
+
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827">
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
+</p>
+
+### Featured Work
+
+| Area | What I Like Building | Tools I Reach For |
+| --- | --- | --- |
+| Computer Vision | Detection, classification, image pipelines | OpenCV, PyTorch, TensorFlow |
+| Data Science | Analysis, modeling, experiment notebooks | Pandas, NumPy, Scikit-Learn |
+| Apps & Tools | Dashboards, demos, small automation | Python, Streamlit, JavaScript |
+
+### GitHub Pulse
+
+<p align="center">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=knsiuss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knsiuss&layout=compact&theme=tokyonight&hide_border=true">
+</p>
+
+<p align="center">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=knsiuss&theme=tokyonight&hide_border=true">
+</p>
+
+<p align="center">
+  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=knsiuss&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity">
+</p>
+
+<p align="center">
+  <img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knsiuss&theme=tokyonight">
+</p>
 
 ---
 
-<div align="center">
-  
-** From [maxvyquincy9393](https://github.com/maxvyquincy9393)**
-
-</div>
+<p align="center">
+  <strong>Let's build something useful.</strong><br>
+  Always learning, always iterating, always making the next version cleaner.
+</p>
