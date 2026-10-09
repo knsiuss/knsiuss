@@ -81,14 +81,6 @@ I'm an AI/ML learner and builder from Universitas Pamulang who enjoys turning id
   <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=knsiuss&theme=tokyonight&hide_border=true">
 </p>
 
-<p align="center">
-  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=knsiuss&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity">
-</p>
-
-<p align="center">
-  <img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knsiuss&theme=tokyonight">
-</p>
-
 ---
 
 <p align="center">
