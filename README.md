@@ -23,21 +23,24 @@
 
 ### Focus
 
-- **Machine Learning & Data Science** — fraud-risk detection, model training, and algorithms reimplemented from scratch for understanding
-- **Computer Vision** — detection, classification, and image pipelines
-- **Product Engineering** — Next.js and TypeScript apps, dashboards, and automation people actually use
+- **LLM infrastructure:** a local proxy and CLI that cuts token spend on coding agents without breaking the provider's prefix cache
+- **Retrieval and agents:** RAG with citation checks, tool safety gates, and self-correcting loops
+- **Machine learning fundamentals:** core algorithms implemented from scratch, plus fraud-risk modelling on the IEEE-CIS dataset
+- **Product engineering:** Next.js and TypeScript apps, dashboards, and desktop tools
 
 ### Featured Projects
 
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
-| [Deep-Dive-into-ML](https://github.com/knsiuss/Deep-Dive-into-ML) | ML curriculum where every algorithm is implemented from scratch with mathematical rigor, built alongside Stanford CS229 | Python, Jupyter |
-| [ieee-fraud-detection](https://github.com/knsiuss/ieee-fraud-detection) | Sentinel — a production-inspired fraud-risk decisioning platform on the IEEE-CIS dataset | Python, Gradio |
-| [f1lab](https://github.com/knsiuss/f1lab) | Real-time F1 analytics dashboard with telemetry, race replay, and ML predictions | Python, Streamlit, FastF1, Plotly |
-| [spotify-downloader](https://github.com/knsiuss/spotify-downloader) | Spotify downloader with desktop and web clients | TypeScript |
-| [web-portfolio](https://github.com/knsiuss/web-portfolio) | Personal portfolio site | Next.js, TypeScript |
-| [sela](https://github.com/knsiuss/sela) | WhatsApp/SMS-first AI agent that books and reschedules appointments for SMB service businesses | TypeScript |
-| [sland](https://github.com/knsiuss/sland) | Pomodoro, now playing, and system glance in a single desktop island | JavaScript |
+| [aphelion-engine](https://github.com/knsiuss/aphelion-engine) | Local HTTP/SSE proxy and CLI for LLM coding agents. Freezes the prefix on turn 0, compacts only newly appended turns, and drops to pass-through when upstream cache-hit falls below 70%. Ships as one static binary plus an npm launcher. | Rust |
+| [vektor](https://github.com/knsiuss/vektor) | Open-source, model-agnostic AI operations assistant. Chat over your own runbooks, hybrid RAG over uploaded documents, read-only tools behind a safety gate, and per-tenant usage metering. Early development (v0.1.0), Apache-2.0. | Python, FastAPI, Next.js |
+| [agentic-rag-aphelion](https://github.com/knsiuss/agentic-rag-aphelion) | Design specification for a self-correcting RAG loop with dynamic sub-agent spawning: retrieval, critique, respawn, and observability. Spec first, ten documents, implementation not started. | Spec |
+| [ieee-fraud-detection](https://github.com/knsiuss/ieee-fraud-detection) | Sentinel, a fraud-risk decisioning platform built on the IEEE-CIS dataset, with model training, a FastAPI service, and a Gradio interface. | Python, LightGBM |
+| [Deep-Dive-into-ML](https://github.com/knsiuss/Deep-Dive-into-ML) | ML curriculum where every algorithm is implemented from scratch with the math worked out, built alongside Stanford CS229. | Python, Jupyter |
+| [f1lab](https://github.com/knsiuss/f1lab) | Real-time F1 analytics dashboard with telemetry, race replay, and ML predictions. | Python, Streamlit, FastF1 |
+| [sela](https://github.com/knsiuss/sela) | WhatsApp/SMS-first AI agent that books and reschedules appointments for SMB service businesses. | TypeScript |
+
+Smaller tools on this account: [spotify-downloader](https://github.com/knsiuss/spotify-downloader), [sland](https://github.com/knsiuss/sland), [starstask](https://github.com/knsiuss/starstask), and [web-portfolio](https://github.com/knsiuss/web-portfolio).
 
 ### Tech Stack
 
@@ -47,6 +50,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 </p>
@@ -54,10 +58,9 @@
 **AI/ML & Data**
 
 <p>
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
   <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+  <img alt="LightGBM" src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square">
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
   <img alt="Gradio" src="https://img.shields.io/badge/Gradio-FF7A00?style=flat-square&logo=gradio&logoColor=white">
@@ -68,6 +71,7 @@
 **Apps & Platforms**
 
 <p>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
