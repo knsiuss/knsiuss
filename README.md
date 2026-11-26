@@ -39,7 +39,6 @@
 | [ieee-fraud-detection](https://github.com/knsiuss/ieee-fraud-detection) | Sentinel, a fraud-risk decisioning platform built on the IEEE-CIS dataset, with model training, a FastAPI service, and a Gradio interface. | Python, LightGBM |
 | [Deep-Dive-into-ML](https://github.com/knsiuss/Deep-Dive-into-ML) | ML curriculum where every algorithm is implemented from scratch with the math worked out, built alongside Stanford CS229. | Python, Jupyter |
 | [f1lab](https://github.com/knsiuss/f1lab) | Real-time F1 analytics dashboard with telemetry, race replay, and ML predictions. | Python, Streamlit, FastF1 |
-| [sela](https://github.com/knsiuss/sela) | WhatsApp/SMS-first AI agent that books and reschedules appointments for SMB service businesses. | TypeScript |
 
 Smaller tools on this account: [spotify-downloader](https://github.com/knsiuss/spotify-downloader), [starstask](https://github.com/knsiuss/starstask), [web-portfolio](https://github.com/knsiuss/web-portfolio), and [dolphin](https://github.com/knsiuss/dolphin), the agent pod that reviews this work.
 
