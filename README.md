@@ -33,14 +33,15 @@
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
 | [aphelion-engine](https://github.com/knsiuss/aphelion-engine) | Local HTTP/SSE proxy and CLI for LLM coding agents. Freezes the prefix on turn 0, compacts only newly appended turns, and drops to pass-through when upstream cache-hit falls below 70%. Ships as one static binary plus an npm launcher. | Rust |
-| [vektor](https://github.com/knsiuss/vektor) | Open-source, model-agnostic AI operations assistant. Chat over your own runbooks, hybrid RAG over uploaded documents, read-only tools behind a safety gate, and per-tenant usage metering. Early development (v0.1.0), Apache-2.0. | Python, FastAPI, Next.js |
-| [agentic-rag-aphelion](https://github.com/knsiuss/agentic-rag-aphelion) | Design specification for a self-correcting RAG loop with dynamic sub-agent spawning: retrieval, critique, respawn, and observability. Spec first, ten documents, implementation not started. | Spec |
+| [aphelion-judge](https://github.com/knsiuss/aphelion-judge) | 3.8B RAG groundedness and hallucination verifier, fine-tuned from Phi-3.5-mini with QLoRA and single-sentence Micro-CoT supervision. Audits answers against retrieved context only and returns schema-strict JSON verdicts. Live demo on Hugging Face. | Python, QLoRA |
+| [vektor](https://github.com/knsiuss/vektor) | Open-source, model-agnostic AI operations assistant. Chat over your own runbooks, hybrid RAG over uploaded documents, read-only tools behind a safety gate, and per-tenant usage metering. Early development (v0.1.0), MIT. | Python, FastAPI, Next.js |
+| [agentic-rag-aphelion](https://github.com/knsiuss/agentic-rag-aphelion) | Self-correcting RAG loop with dynamic sub-agent spawning: retrieval, critique, respawn, and observability. Ten design documents plus milestone scaffolding for the `agrag` package. | Python, Spec |
 | [ieee-fraud-detection](https://github.com/knsiuss/ieee-fraud-detection) | Sentinel, a fraud-risk decisioning platform built on the IEEE-CIS dataset, with model training, a FastAPI service, and a Gradio interface. | Python, LightGBM |
 | [Deep-Dive-into-ML](https://github.com/knsiuss/Deep-Dive-into-ML) | ML curriculum where every algorithm is implemented from scratch with the math worked out, built alongside Stanford CS229. | Python, Jupyter |
 | [f1lab](https://github.com/knsiuss/f1lab) | Real-time F1 analytics dashboard with telemetry, race replay, and ML predictions. | Python, Streamlit, FastF1 |
 | [sela](https://github.com/knsiuss/sela) | WhatsApp/SMS-first AI agent that books and reschedules appointments for SMB service businesses. | TypeScript |
 
-Smaller tools on this account: [spotify-downloader](https://github.com/knsiuss/spotify-downloader), [sland](https://github.com/knsiuss/sland), [starstask](https://github.com/knsiuss/starstask), and [web-portfolio](https://github.com/knsiuss/web-portfolio).
+Smaller tools on this account: [spotify-downloader](https://github.com/knsiuss/spotify-downloader), [starstask](https://github.com/knsiuss/starstask), [web-portfolio](https://github.com/knsiuss/web-portfolio), and [dolphin](https://github.com/knsiuss/dolphin), the agent pod that reviews this work.
 
 ### Tech Stack
 
@@ -86,7 +87,7 @@ Smaller tools on this account: [spotify-downloader](https://github.com/knsiuss/s
 
 <p align="center">
   <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=knsiuss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knsiuss&layout=compact&theme=tokyonight&hide_border=true">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knsiuss&layout=compact&theme=tokyonight&hide_border=true&count_private=true">
 </p>
 
 <p align="center">
